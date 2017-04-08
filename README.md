@@ -10,6 +10,8 @@
 
 Extends [Loba](https://rubygems.org/gems/loba) to add command-line tools to help manage [Loba](https://rubygems.org/gems/loba) statements in Ruby code.
 
+# WORK IN PROGRESS - UNDER CONSTRUCTION
+
 ## Overview
 
 There are two kinds of questions I usually want to answer when trying to diagnose code behavior:
